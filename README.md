@@ -1,2 +1,2 @@
-# Book-Fuse
-Issue tracking for the BookFuse iOS app
+# Book-Nexus
+Issue tracking for the BookNexus iOS app
